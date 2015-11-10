@@ -2,7 +2,7 @@
 
 /* line 39, ../sass/screen.scss */
 body {
-  background-color: #fff;
+  background-color: red;
 }
 
 #header {
@@ -45,7 +45,7 @@ body {
 
 
 .payments {
-  background-color: red;
+  background-color: #f5f5f5;
     width: 430px;
     font-size: 10px;
 }
@@ -86,13 +86,13 @@ body {
 /* line 176, ../sass/screen.scss */
 .complete-order {
   padding: 0;
-  background-color: #fff;
+  background-color: red;
 }
 /* line 180, ../sass/screen.scss */
 .complete-order button[type="submit"] {
-  background-color: #fbd73a;
+  background-color: green;
 }
 /* line 186, ../sass/screen.scss */
 .complete-order button[type="submit"]:hover {
-  background-color: #fbd73a;
+  background-color: green;
 }
